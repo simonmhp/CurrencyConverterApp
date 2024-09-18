@@ -1,16 +1,17 @@
 # currency_converter
 
-A new Flutter project.
+This project is a one of the starting point for My Flutter Development.
+A project Created few months back to demonstrate the Cupertino and Material App Layout.
+This is a Currency Convertor app for **Dollar to INR only**.
+> The main motive of the Project is to Demonstrate the Cupertino and Material App Layout.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Just Plug and Play Type Project Execution.
+- Only requirement is flutter, dart and VS Code(Flutter Code Editor) installed in your System. 
+- In the main.dart File both the Layouts are Ready to be Executed, by default MyApp (Material App layout) placed in main().
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Without Changes the Project will run Material App Layout Currency Convertor App.
+- To run Cupertino App same Project, replace MyApp() in main() To MyCupertinoApp().
+- Run the Project.
+ 
