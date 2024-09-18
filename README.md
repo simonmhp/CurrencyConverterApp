@@ -5,6 +5,18 @@ A project Created few months back to demonstrate the Cupertino and Material App 
 This is a Currency Convertor app for **Dollar to INR only**.
 > The main motive of the Project is to Demonstrate the Cupertino and Material App Layout.
 
+<div style="display: flex; gap: 20px; justify-content: center;">
+    <div style="text-align: center;">
+        <img src="https://github.com/simonmhp/CurrencyConverterApp/raw/main/ScreenShots/CupertinoApp.jpg" width="200" height="400" alt="Cupertino App">
+        <p>Cupertino App</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://github.com/simonmhp/CurrencyConverterApp/raw/main/ScreenShots/MaterialApp.jpg" width="200" height="400" alt="Material App">
+        <p>Material App</p>
+    </div>
+</div>
+
+
 ## Getting Started
 
 - Just Plug and Play Type Project Execution.
